@@ -1,6 +1,4 @@
-### Hi there! Welcome to my github profile! 👋
-
-I'm Gabriel, a tech enthusiast. I believe that technology and innovation can lift society to higher levels.<br><br>
+Hi there! I'm Gabriel. You can also call me Branco. I believe that technology and innovation can lift society to higher levels.<br><br>
 
 👨‍💻 I work on CRM PipeRun as Technical Documentation Analyst<br>
 🌱 Learning about OpenAPI Specification and VueJS<br>
